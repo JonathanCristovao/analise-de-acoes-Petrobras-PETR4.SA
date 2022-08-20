@@ -1,5 +1,6 @@
-# Análise de ações da Petrobras em 10 anos Petrobras (PETR4.SA)
-Este repositório e destinado a análise de ações no mercado financeiro com Python e R.
+# Análise de ações da Petrobras em 10 anos. 
+* Este repositório e destinado a análise de ações no mercado financeiro com Python e R. 
+* Ação em análise: PETR4.SA.
 
 ![alt text](01)
 
